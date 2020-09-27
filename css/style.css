@@ -22,7 +22,10 @@ html{
 	cursor: pointer;
 
 }
+.navbar:hover{
+	background-color:transparent;
 
+}
 
 .logo{
 	width: 20%;
