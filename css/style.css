@@ -292,7 +292,7 @@ html{
 	.navbar{
 		flex-direction: column;
 		flex-direction: column-reverse;
-		height: 470px;
+		height: 100vh;
 		transition: all .3s ease-out;
 	}
 	.rightNav{
